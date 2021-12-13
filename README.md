@@ -1,2 +1,2 @@
-# Projeto-meu-primeiro-reposit-rio-DIO.me
+# Projeto-meu-primeiro-repositorio-DIO.me
 Primeiro repositório do curso introdução ao git e github
